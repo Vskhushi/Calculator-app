@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
-  background-image: url(""C:\Users\vskhu\Downloads\cartoon.jpg");
+  background-image: url("../img/cartoon.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
